@@ -11,6 +11,23 @@
 
 ## Where to find me?
 
+- SanskritCentral - https://github.com/nagajayasree/BlogApp-SanskritCentral
+  - **Technologies** - React, Node.js, Express.js, MongoDB, GraphQL API, React Router, React Quill.
+  - **Overview** - This website displays feeds(blogs) list, videos list and to add a new feed into the database. When clicked on a feed card or video card it navigates to it's 
+      respective details page.
+    
+- ECommerceApp - https://github.com/nagajayasree/ECommerceApp-React
+  - **Technologies** - React, Context, Dummy API, React Router.
+  - **Overview** - This website displays products and their details. Implemented search and filtering functionalities. Items will be added to the cart. State is being managed by 
+      Context.
+
+- MflixApp - https://github.com/nagajayasree/MflixApp-MERN-GraphQL
+  - **Technologies** - React, Node.js, Express.js, MongoDB, GraphQL API, React Router.
+  - **Overview** - This website displays a list of movies fetched from database and adds a movie to the database.
+
+    
+## Where to find me?
+
 <p> <a href="https://www.linkedin.com/in/naga-jaya-sree-mallojjala-b9a638137/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <p>
 
 
