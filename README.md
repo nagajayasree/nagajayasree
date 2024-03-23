@@ -1,5 +1,6 @@
-### Hi there 👋 I'm Jaya Sree!
+## Hi there 👋 Nice to see you.
 
+<p>Welcome to my page! </br> I'm Jaya Sree, React Developer based in <img src="https://www.flaticon.com/free-icon/canada_197430?term=canada+flag&page=1&position=1&origin=search&related_id=197430" width="13"/> <b> Montreal, Canada</b>. </p>
 
 ## Things I use on a daily basis
 
