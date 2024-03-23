@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Jaya Sree!
 
-**Things I use on a daily basis**
 
 ## Things I use on a daily basis
 
