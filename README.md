@@ -2,6 +2,7 @@
 
 <img src='github-header-image (1).png'/>
 
+&nbsp;
 
 ## Things I use on a daily basis
 
