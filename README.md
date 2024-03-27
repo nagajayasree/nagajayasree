@@ -15,15 +15,15 @@
 
 ## My Projects
 
-- SanskritCentral - https://github.com/nagajayasree/BlogApp-SanskritCentral
-  - **Technologies** - React, Node.js, Express.js, MongoDB, GraphQL API, React Router, React Quill.
-  - **Overview** - This website displays feeds(blogs) list, videos list and to add a new feed into the database. When clicked on a feed card or video card it navigates to it's 
-      respective details page.
-    
 - ECommerceApp - https://github.com/nagajayasree/ECommerceApp-React
   - **Technologies** - React, Context, Dummy API, React Router.
   - **Overview** - This website displays products and their details. Implemented search and filtering functionalities. Items will be added to the cart. State is being managed by 
       Context.
+
+- SanskritCentral - https://github.com/nagajayasree/BlogApp-SanskritCentral
+  - **Technologies** - React, Node.js, Express.js, MongoDB, GraphQL API, React Router, React Quill.
+  - **Overview** - This website displays feeds(blogs) list, videos list and to add a new feed into the database. When clicked on a feed card or video card it navigates to it's 
+      respective details page.
 
 - MflixApp - https://github.com/nagajayasree/MflixApp-MERN-GraphQL
   - **Technologies** - React, Node.js, Express.js, MongoDB, GraphQL API, React Router.
