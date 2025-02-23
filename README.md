@@ -1,4 +1,4 @@
-## Hi there, nice to see you here 👋😁
+## Hi there, nice to see you here!👋😁
 
 <img src='github-header-image (1).png'/>
 
