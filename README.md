@@ -12,6 +12,7 @@
 
 &nbsp;
 
+<!--
 
 ## My Projects
 
@@ -29,8 +30,8 @@
   - **Technologies** - React, Node.js, Express.js, MongoDB, GraphQL API, React Router.
   - **Overview** - This website displays a list of movies fetched from database and adds a movie to the database.
 
-
 &nbsp;
+ -->
 
 
 ## Where to find me?
